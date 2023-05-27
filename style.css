@@ -1,19 +1,17 @@
 body {
-    background-color: aqua;
+  background-color: aqua;
 }
-.About me
-{
-    background-color: var(--bg-color);
-    padding: 1px 6px;
-  }
-  
-  h2 About Me {
-    margin-bottom: var(--bottom-margin);
-    text-align: center;
-  }
-  
-  .About  {
-    line-height: var(--line-height);
-    padding: 0.4px;
-  }
-  
+.About me {
+  background-color: var(--bg-color);
+  padding: 1px 6px;
+}
+
+h2 About Me {
+  margin-bottom: var(--bottom-margin);
+  text-align: center;
+}
+
+.About {
+  line-height: var(--line-height);
+  padding: 0.4px;
+}
