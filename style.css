@@ -2,3 +2,7 @@ body {
   background: #6b74d1; 
 }
 
+.skills {
+  display: inline-block;
+  background: white;
+}
