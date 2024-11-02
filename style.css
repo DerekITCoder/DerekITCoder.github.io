@@ -16,6 +16,7 @@ body {
   border-radius: 8px;         /* Rounded corners */
   width: fit-content;         /* Box width based on content */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional shadow */
+
 }
 
 
@@ -23,4 +24,12 @@ body {
 .project-card {
   display: inline-block;
  
+}
+
+
+
+.topnav a {
+  font-size: 25px; /* Adjust the size as needed */
+
+ /* Optional: removes underline */
 }
